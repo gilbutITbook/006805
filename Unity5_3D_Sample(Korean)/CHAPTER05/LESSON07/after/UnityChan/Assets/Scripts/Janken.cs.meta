@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: fb5f2cbc29b2ad64e8c7d136b86d6421
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - voice_janken_start: {fileID: 8300000, guid: 14c94d28d0fa044eabf8080bc09df2f1,
+      type: 3}
+  - voice_janken_pon: {fileID: 8300000, guid: 41246cf5359974997ac6c9e8e3e66933, type: 3}
+  - voice_janken_goo: {fileID: 8300000, guid: 40a909895797f4371b61f01586a10a12, type: 3}
+  - voice_janken_choki: {fileID: 8300000, guid: b74b7b65252e34758b690a31b51ca39b,
+      type: 3}
+  - voice_janken_par: {fileID: 8300000, guid: e460fa75a86f04e8fa09ac92a6cb8939, type: 3}
+  - voice_janken_win: {fileID: 8300000, guid: 576dc1e227f1948b7810b1f4486f2239, type: 3}
+  - voice_janken_loose: {fileID: 8300000, guid: d99e85421202f4fcbbe6feff2ff4d365,
+      type: 3}
+  - voice_janken_draw: {fileID: 8300000, guid: d895b3e88867749eb80ec257e12278bd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
